@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px;
+  background-color: rgba(255, 168, 165, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Ensure the container covers the full viewport height */
+  flex-direction: column; /* To center vertically */
+}
